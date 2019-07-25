@@ -35,10 +35,10 @@ In this tutorial, we will motivate declarative TU and showcase SystemT features 
 - System overview
     - Design considerations
     - System architecture
-- Basic AQL
+- Visual IDE
 - Hands-on Lab 1: Building extractors with Watson Knowledge Studio
 - Hands-on Lab 2: Creating and editing extractors visually with the Advanced Rule Editor
-- Intermediate AQL
+- Annotation Query Language (AQL)
 - Hands-on Lab 3: Creating advanced extractors and writing AQL with the Advanced Rule Editor
 - Advanced topics and research directions
    
@@ -46,27 +46,28 @@ In this tutorial, we will motivate declarative TU and showcase SystemT features 
 
 **Huaiyu Zhu**
 
-*Huaiyu Zhu is a Research Staff Member in the Scalable Knowledge Intelligence group at IBM Almaden Research Center. His main research focus is on text analytics, natural language processing, machine learning and statistical information processing.*
+*[Huaiyu Zhu](https://www.linkedin.com/in/huaiyu-zhu-075608134/) is a Research Staff Member in the [Scalable Knowledge Intelligence](https://researcher.watson.ibm.com/researcher/view_group.php?id=9820) group at [IBM Almaden Research Center](http://www.research.ibm.com/labs/almaden/index.shtml). His main research focus is on text analytics, natural language processing, machine learning and statistical information processing. He has a PhD in Computational Mathematics and Statistics from University of Liverpool, and a BS in Computational Mathematics from Xian Jiaotong University.*
 
 **Yunyao Li**
 
-*Yunyao Li is a Principle Research Staff Member and Senior Research Manager at  IBM Almaden Research Center where she manages the Scalable Knowledge Intelligence department. She is also a Master Inventor and a member of IBM Academy of Technology.  Her expertise is in the interdisciplinary areas of natural language processing, databases, human-computer interaction, and information retrieval.  She is a founding member of SystemT, a state-of-the-art NLP system currently powering multiple IBM products, and numerous projects. She received her PhD and master degrees from  the University of Michigan Ann Arbor and undergraduate degrees from Tsinghua University, Beijing, China.  You can read about Yunyao's inspiring story from small-town China to Silicon Valley here.  Follow her on Twitter @yunyao_li.*
+*[Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) is a Principle Research Staff Member and Senior Research Manager at  IBM Almaden Research Center where she manages the [Scalable Knowledge Intelligence Department](https://researcher.watson.ibm.com/researcher/view_group.php?id=9820). She is also a Master Inventor and a member of IBM Academy of Technology.  Her expertise is in the interdisciplinary areas of natural language processing, databases, human-computer interaction, and information retrieval.  She is a founding member of SystemT, a state-of-the-art NLP system currently powering multiple IBM products, and numerous projects. She received her PhD and master degrees from  the University of Michigan Ann Arbor and undergraduate degrees from Tsinghua University, Beijing, China.  Read about Yunyao's [story from small-town China to Silicon Valley](https://www.cbronline.com/internet-of-things/cognitive-computing/small-town-china-silicon-valley-giant-amazing-story-one-ibm-researcher/) and follow her on Twitter @yunyao_li.*
 
 **Laura Chiticariu**
 
-*Laura Chiticariu is the Chief Architect of Watson Knowledge and Language Foundation, with technical leadership responsibilities over Watson Natural Language Understanding, Watson Knowledge Studio and Watson Knowledge Graph. Laura is a core member of the SystemT, R&D team, and strongly believes in the notion of "Transparent NLP": leveraging machine learning techniques, while ensuring that the NLP system remains transparent - easy to comprehend, debug and enhance. She holds a Ph.D. in Computer Science, and has been teaching NLP across universities within and outside the U.S.*
+*[Laura Chiticariu](https://www.linkedin.com/in/laura-chiticariu/) is the Chief Architect of Watson Knowledge and Language Foundation, with technical leadership responsibilities over Watson Natural Language Understanding, Watson Knowledge Studio and Watson Knowledge Graph. Laura is a core member of the [SystemT](http://researcher.watson.ibm.com/researcher/view_group.php?id=1264) R&D team, and strongly believes in the notion of `Transparent NLP`: leveraging machine learning techniques, while ensuring that the NLP system remains transparent - easy to comprehend, debug and enhance. She holds a Ph.D. in Computer Science, and has been teaching NLP across universities within and outside the U.S.*
 
 **Marina Danilevsky**
 
-*Marina Danilevsky is a Research Staff Member in the Scalable Knowledge Intelligence group at IBM Almaden Research Center and a core member of the SystemT R&D team. She works in the intersection of data analytics, text mining, natural language processing, information networks, and human-computer interaction. She holds a Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign and a B.S. in Mathematics from the University of Chicago.*
+*[Marina Danilevsky](https://www.linkedin.com/in/marina-danilevsky-a083b63/) is a Research Staff Member in the [Scalable Knowledge Intelligence](https://researcher.watson.ibm.com/researcher/view_group.php?id=9820) group at [IBM Almaden Research Center](http://www.research.ibm.com/labs/almaden/index.shtml) and a core member of the [SystemT](http://researcher.watson.ibm.com/researcher/view_group.php?id=1264) R&D team. She works in the intersection of data analytics, text mining, natural language processing, information networks, and human-computer interaction. She holds a Ph.D. in Computer Science from the [University of Illinois at Urbana-Champaign](http://www.cs.illinois.edu/) and a B.S. in [Mathematics](http://math.uchicago.edu/) from the [University of Chicago](https://www.uchicago.edu/).*
 
 **Sanjana Sahayaraj**
 
-*Sanjana Sahayaraj is a Software Developer in the Scalable Knowledge Intelligence Team at IBM Almaden Research Center. Her current research interest is in Natural Language Processing. She completed her Masters in Computer Science from University of California, Santa Barbara and her Bachelors in Computer Science and Engineering from Anna University, Chennai, India.*
+*[Sanjana Sahayaraj](https://www.linkedin.com/in/sanjana-sahayaraj/) is a Software Developer in the [Scalable Knowledge Intelligence](https://researcher.watson.ibm.com/researcher/view_group.php?id=9820) group at [IBM Almaden Research Center](http://www.research.ibm.com/labs/almaden/index.shtml). Her current research interest is in Natural Language Processing. She completed her Masters in Computer Science from University of California, Santa Barbara and her Bachelors in Computer Science and Engineering from Anna University, Chennai, India. Connect with her on twitter [@Sanjana_1](https://twitter.com/Sanjana_1)*
 
 **Teruki Tauchi**
 
-*Teruki Tauchi is a front-end software developer of IBM Watson Knowledge Studio at Tokyo Software & Systems Development Lab (TSDL), IBM Japan. He joined IBM after obtaining a Master of Engineering degree in Computer Science from University College London in 2015.*
+*Teruki Tauchi is a front-end software developer of [IBM Watson Knowledge Studio](https://www.ibm.com/cloud/watson-knowledge-studio) at Tokyo Software & Systems Development Lab (TSDL), IBM Japan. He joined IBM after obtaining a Master of Engineering degree in Computer Science from University College London in 2015.*
+
 
 
 
