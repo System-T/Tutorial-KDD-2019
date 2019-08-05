@@ -1,4 +1,4 @@
-## Lab 2: SystemT Advanced Rule Editor Lab
+## Lab 2: SystemT Advanced Rule Editor Lab - Part 1
 
 You will be using temporary credentials provided to you to complete the lab. 
 
