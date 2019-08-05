@@ -1,0 +1,17 @@
+module mdanile_us_ibm_com__Financial___Export;
+
+create view SentimentStats as
+select GetText(S.clue) as sentimentClue, Count(S.clue) as sentimentCount
+from Sentiment S
+group by GetText(S.clue);
+
+export view SentimentStats;
+
+create view SentimentPatterns as
+select GetText(S.patternName) as patternName, 
+List(GetText(S.clue)) as clues, 
+Count(GetText(S.clue)) as countClues 
+from Sentiment S
+group by GetText(S.patternName);
+
+export view SentimentPatterns;
