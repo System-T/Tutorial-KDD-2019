@@ -11,7 +11,7 @@ This tutorial leverages resources from IBM cloud (https://cloud.ibm.com/)
 
 **Note: at the start of the tutorial, credentials for pre-provisioned  IBM cloud accounts will be handed out**
 
-
+You will receive a unique id. Please use it to look up your credentials on the Access page in this repo: [Accounts/Access.md](https://github.com/System-T/Tutorial-KDD-2019/blob/master/Accounts/Access.md)
 
 ## Abstract
 
@@ -29,13 +29,9 @@ In this tutorial, we will motivate declarative TU and showcase SystemT features 
 
 
 ## Tutorial Outline:
-- Introduction
-    - Motivation from real-world use cases
-    - Challenges for enterprise text understanding
-- System overview
-    - Design considerations
-    - System architecture
-- Visual IDE
+- Introduction to enterprise text understanding
+- Overview of SystemT
+- Visual introduction to building extractors
 - Hands-on Lab 1: Building extractors with Watson Knowledge Studio
 - Hands-on Lab 2: Creating and editing extractors visually with the Advanced Rule Editor
 - Annotation Query Language (AQL)
