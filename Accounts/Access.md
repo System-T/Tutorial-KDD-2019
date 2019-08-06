@@ -30,7 +30,7 @@
 | 7    	|systemt.tutorialkdd.2019user@gmail.com       	|systemTutorial@7BMCloud          	|User1  |
 | 8   	|systemt.tutorialkdd2019.user@gmail.com       	|systemTutorial@8BMCloud          	|User1  |
 | 9   	|systemt.tutorial.kdd.2019user@gmail.com       	|systemTutorial@9BMCloud          	|User1  |
-| 10   	|systemt.tutorial.kdd2019.user@gmail.com / 	systemttutorial@gmail.com      	|systemTutorial@10BMCloud          	|User1  |
+| 10   	|systemttutorial@gmail.com      	|systemTutorial@10BMCloud          	|User1  |
 | 11   	|system.t.tutorial.kdd.2019.user@gmail.com       	|systemTutorial@11BMCloud          	|User1  |
 | 12   	|systemttutorial.kdd.2019user@gmail.com       	|systemTutorial@12BMCloud          	|User1  |
 | 13   	|systemttutorial.kdd2019.user@gmail.com       	|systemTutorial@13BMCloud          	|User1  |
@@ -50,7 +50,7 @@
 | 27    	|systemt.tutorialkdd.2019user@gmail.com       	|systemTutorial@7BMCloud          	|User2  |
 | 28   	|systemt.tutorialkdd2019.user@gmail.com       	|systemTutorial@8BMCloud          	|User2  |
 | 29   	|systemt.tutorial.kdd.2019user@gmail.com       	|systemTutorial@9BMCloud          	|User2  |
-| 30   	|systemt.tutorial.kdd2019.user@gmail.com / 	systemttutorial@gmail.com      	|systemTutorial@10BMCloud          	|User2  |
+| 30   	|systemttutorial@gmail.com      	|systemTutorial@10BMCloud          	|User2  |
 | 31   	|system.t.tutorial.kdd.2019.user@gmail.com       	|systemTutorial@11BMCloud          	|User2  |
 | 32   	|systemttutorial.kdd.2019user@gmail.com       	|systemTutorial@12BMCloud          	|User2  |
 | 33   	|systemttutorial.kdd2019.user@gmail.com       	|systemTutorial@13BMCloud          	|User2  |
@@ -70,7 +70,7 @@
 | 47    	|systemt.tutorialkdd.2019user@gmail.com       	|systemTutorial@7BMCloud          	|User3  |
 | 48   	|systemt.tutorialkdd2019.user@gmail.com       	|systemTutorial@8BMCloud          	|User3  |
 | 49   	|systemt.tutorial.kdd.2019user@gmail.com       	|systemTutorial@9BMCloud          	|User3  |
-| 50   	|systemt.tutorial.kdd2019.user@gmail.com  / 	systemttutorial@gmail.com     	|systemTutorial@10BMCloud          	|User3  |
+| 50   	|systemttutorial@gmail.com     	|systemTutorial@10BMCloud          	|User3  |
 | 51   	|system.t.tutorial.kdd.2019.user@gmail.com       	|systemTutorial@11BMCloud          	|User3  |
 | 52   	|systemttutorial.kdd.2019user@gmail.com       	|systemTutorial@12BMCloud          	|User3  |
 | 53   	|systemttutorial.kdd2019.user@gmail.com       	|systemTutorial@13BMCloud          	|User3  |
