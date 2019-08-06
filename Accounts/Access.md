@@ -6,11 +6,7 @@
 
 1. Go to https://cloud.ibm.com/resources
 2. Log in using the email and password from your credentials row.
-3. On the Resource List page, find the **Services** category and expand it.
-4. Click on the active service **WKS for lab**
-5. Click on **Launch Watson Knowledge Studio** button
-6. Click on the workspace assigned to your unique ID. **Use your assigned workspace, otherwise you will be stepping on the toes of other participants.**
-7. Proceed to the lab instructions.
+3. Proceed to the lab instructions.
 
 #### Lab 2:
 
