@@ -1,14 +1,10 @@
 ## Lab 1: Watson Knowledge Studio Rule Lab
 
-You will be using temporary credentials provided to you to complete the lab. 
+Please start by following the instructions in Appendix A and use your own credentials to sign up for IBM cloud and provision your own WKS instance.
 
-Please follow the instructions in Lab1-Instructions.pdf
+Then follow the instructions in Lab1-Instructions.pdf
 
 ## Going Further
-
-#### Working with the Watson Knowledge Studio (WKS) service on your own
-
-Are you ready to build your own extractors with Watson Knowledge Studio on IBM cloud? Follow the instructions in Appendix A and use your own credentials to sign up for IBM cloud and provision your own WKS instance.
 
 #### Working with the Natural Language Understanding (NLU) service
 
