@@ -13,7 +13,7 @@ This tutorial leverages resources from IBM cloud (https://cloud.ibm.com/)
 
 Lab 1 only requires an IBM cloud account to use the Watson Knowledge Studio and Natural Language Understanding services.
 
-Labs 2 and 3 require an invitation to the closed beta of the Advanced Rule Editor. Please inquire via email.
+Labs 2 and 3 require an invitation to the closed beta of the Advanced Rule Editor. Please inquire via [email](edidrik@us.ibm.com).
 
 
 
