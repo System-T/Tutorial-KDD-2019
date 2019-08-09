@@ -1,6 +1,6 @@
 ## Lab 2: SystemT Advanced Rule Editor Lab - Part 1
 
-Labs 2 and 3 require an invitation to the closed beta of the Advanced Rule Editor. Please inquire via email.
+Labs 2 and 3 require an invitation to the closed beta of the Advanced Rule Editor.
 
 Once you have access, please follow the instructions in Lab2-Instructions.pdf
 
