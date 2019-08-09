@@ -9,9 +9,13 @@ Web browser - preferably the latest version of Firefox or Chrome.
 
 This tutorial leverages resources from IBM cloud (https://cloud.ibm.com/)
 
-**Note: at the start of the tutorial, credentials for pre-provisioned  IBM cloud accounts will be handed out**
+**All labs require that you obtain an IBM cloud account (free version is sufficient to complete the labs)**
 
-You will receive a unique id. Please use it to look up your credentials on the Access page in this repo: [Accounts/Access.md](https://github.com/System-T/Tutorial-KDD-2019/blob/master/Accounts/Access.md)
+Lab 1 only requires an IBM cloud account to use the Watson Knowledge Studio and Natural Language Understanding services.
+
+Labs 2 and 3 require an invitation to the closed beta of the Advanced Rule Editor. Please inquire via email.
+
+
 
 ## Abstract
 
